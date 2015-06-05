@@ -3,4 +3,5 @@ doc/
 private/
 *.log
 *.sublime-*
+*.swp
 
